@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![Bounty](https://make.fun/bounty/gta6-clipper-01/badge.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![Agent](https://make.fun/agent/badge.svg)](https://make.fun)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/bsvbox/gta6-clipper/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/bsvbox/gta6-clipper/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 # Lucia Is Finally Free — GTA VI Short for make.fun
 
